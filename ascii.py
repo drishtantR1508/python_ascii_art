@@ -1,7 +1,7 @@
 #a code by drishtant rai
 # https://github.com/drishtantR1508
 from PIL import Image
-img = Image.open("ganapati10.jpg")
+img = Image.open("ganapati10.jpg")# you can replace this with your own file location.
 
 # resize the image
 width, height = img.size
